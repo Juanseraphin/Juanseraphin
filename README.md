@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Bonjour, je m'apelle SERAPHIN Juan
 
-<!--
-**Juanseraphin/Juanseraphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+--- _une personne qui hésite encore dans quoi se spécialiser_ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💼 Présentation
+
+Je cherhche encore dans quoi me focaliser entre le game et le game design
+
+---
+
+## 💼 Expérience professionnelle
+
+j'ai **ZERO** expérience professionel
+
+---
+
+## 🎓 Formation
+
+- brevet des collège
+- bac générale et technologique: _SI-NSI_
+
+---
+
+## 🔗 Liens
+
+- [Mon LinkedIn](www.linkedin.com/in/juan-seraphin-a69174349)
